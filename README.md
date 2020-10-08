@@ -36,3 +36,5 @@
   <button [disabled]="value <= 0" (click)="decrement()">Decrementar</button>
   <button [disabled]="value == 0" (click)="zero()">Zerar</button>
 </div>
+
+<img src="https://www.imagemhost.com.br/images/2020/10/08/counterApp.jpg" alt="counterApp.jpg" border="0" />
