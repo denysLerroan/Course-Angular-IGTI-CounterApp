@@ -1,0 +1,24 @@
+span {
+  font-size: 1.2em;
+  color: rgb(255, 0, 0);
+}
+
+.buttons {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+button {
+  margin-right: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(124, 214, 250);
+  color: white;
+  font-weight: bolder;
+  font-size: 1em;
+  border: none;
+}
+
+button:disabled {
+  background-color: rgba(124, 214, 250, 0.198);
+}
